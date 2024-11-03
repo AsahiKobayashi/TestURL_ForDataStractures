@@ -8,7 +8,7 @@
 >
 # DepthFirstSearch
 >
-# 座標圧縮
+# Compress
 >
 # MultiSet
 >
